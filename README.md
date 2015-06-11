@@ -1,4 +1,4 @@
-# AndroidWhichDrawable
+# WhichDrawable
 an app to show that the device uses hdpi or xhdpi or xxhdpi or xxxhdpi
 it also shows screen information, like density, width, height etc.
 
